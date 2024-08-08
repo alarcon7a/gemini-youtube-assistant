@@ -1,4 +1,4 @@
-
+![youtube-gemini](https://github.com/user-attachments/assets/aea8df0d-70de-4713-a612-dfad98dbda0e)
 # YouTube Assistant Desktop App
 
 This desktop application is powered by Google Gemini AI, designed to be your ultimate YouTube assistant, helping you optimize your video content for better visibility and engagement. With this tool, you can easily generate time stamps, titles, and descriptions that are SEO-optimized for your videos. Whether you're a content creator looking to streamline your workflow or boost your channel's performance, this app provides the tools you need to succeed.
