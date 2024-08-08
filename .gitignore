@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+.env
+
+# Streamlit
+.streamlit/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+temp_media.mp4
+temp_audio.mp3
+
+# IDE specific files
+.vscode/
+.idea/
+
+# Logs
+*.log
