@@ -40,6 +40,7 @@ Cross-Platform Support: Available on Windows, macOS, and Linux.
 Clone the repository:
 
 ```git clone git@github.com:alarcon7a/gemini-youtube-assistant.git```
+
 ```cd gemini-youtube-assistant```
 
   
@@ -47,6 +48,7 @@ Clone the repository:
 Create a virtual environment and activate it:
 
 ```python3.10 -m venv youtube_assistant_env```
+
 ```source youtube_assistant_env/bin/activate # On Windows, use `youtube_assistant_env\Scripts\activate` ```
 
   
