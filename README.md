@@ -39,7 +39,7 @@ Cross-Platform Support: Available on Windows, macOS, and Linux.
 
 Clone the repository:
 
-```Copygit clone git@github.com:alarcon7a/gemini-youtube-assistant.git```
+```git clone git@github.com:alarcon7a/gemini-youtube-assistant.git```
 ```cd gemini-youtube-assistant```
 
   
