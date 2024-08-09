@@ -65,15 +65,15 @@ def process_media_file(uploaded_file, api_key, model_name, is_audio_only, langua
 def display_results(media_model, type_model, media_file, is_audio_only, language):
     st.subheader("Timestamps")
     timestamps = get_timestamps(media_model, is_audio_only, media_file, language)
-    st.write(timestamps)
+    st.markdown(timestamps)
 
     st.subheader("SEO Information")
     seo_info = get_seo_info(media_model, is_audio_only, media_file, language)
-    st.write(seo_info)
+    st.markdown(seo_info)
 
-    st.subheader("SEO Information")
+    st.subheader("Social media post")
     seo_info = get_social_media_post(media_model, is_audio_only, media_file, language)
-    st.write(seo_info)    
+    st.markdown(seo_info)    
 
     if type_model == 'cache_model':
         media_model.delete()
